@@ -39,7 +39,7 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altanemuce&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanemuce" />
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
