@@ -11,22 +11,12 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 - :pencil2: Şuanda öğrenciyim freelance iş yapmaktayım ve iş tekliflerine açığım.
 - ⚡ Oyun oynamak, araştırma yapmak, kendimi geliştirmek hayatımdaki sevdiğim yanlarımdır.
 
-#### Bilgi Sahibi Olduğum Teknolojiler
+#### Bilgi Sahibi Olduğum Teknolojiler Ve Diller
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Flutter Badge](https://img.shields.io/badge/%20-Flutter-informational)](#) [![Javascript Badge](https://img.shields.io/badge/%20-Javascript-yellow)](#)  [![Nodejs Badge](https://img.shields.io/badge/%20-NodeJS-green)](#) [![MongoDB Badge](https://img.shields.io/badge/%20-MongoDB-success)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-PostqreSql-blue)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-EntityFramework-orange)](#) 
+[![Flutter Badge](https://img.shields.io/badge/%20-Flutter-informational)](#) [![Javascript Badge](https://img.shields.io/badge/%20-Javascript-yellow)](#)  [![Nodejs Badge](https://img.shields.io/badge/%20-NodeJS-green)](#) [![MongoDB Badge](https://img.shields.io/badge/%20-MongoDB-success)](#) <br>[![PostqreSql Badge](https://img.shields.io/badge/%20-PostqreSql-blue)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-EntityFramework-orange)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-C%23-purple)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-JAVA-red)](#) 
 
-### Hakim Olduğum Diller
-
-<img alt="C#" width="26px" src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png"/>
-
-<img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img  alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
-
-<img  alt="CSS" width="26px" src="https://lh3.googleusercontent.com/proxy/RRh5HDzH2aY3kI9OmVfN9zh7xAeCQhwajkVA_ulyNKQzW3Zu9kyAJHy1e7-_s_02UDiaGiSlWDJAChVRozXNFo1_Dn4zZEB_mAfkLIukkdRxMCgdpjLfPb_XOg" />
-
-<img  alt="Kotlin" width="26px" src="https://pics.freeicons.io/uploads/icons/png/19341587051579517856-512.png" />
 
 
 <br />
@@ -45,6 +35,7 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 
 #### Github İstatistikleri
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altanemuce&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
