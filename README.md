@@ -17,8 +17,6 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 [![Flutter Badge](https://img.shields.io/badge/%20-Flutter-informational)](#) [![Javascript Badge](https://img.shields.io/badge/%20-Javascript-yellow)](#)  [![Nodejs Badge](https://img.shields.io/badge/%20-NodeJS-green)](#) [![MongoDB Badge](https://img.shields.io/badge/%20-MongoDB-success)](#) <br>[![PostqreSql Badge](https://img.shields.io/badge/%20-PostqreSql-blue)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-EntityFramework-orange)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-C%23-purple)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-JAVA-red)](#) 
 
-
-
 <br />
 <br />
 
@@ -33,11 +31,6 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 #### Trophylerim
 [![trophy](https://github-profile-trophy.vercel.app/?username=altanemuce)](https://github.com/ryo-ma/github-profile-trophy)
-
-#### Github İstatistikleri
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altanemuce&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanemuce" />
 
