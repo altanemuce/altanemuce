@@ -19,7 +19,7 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 ### Hakim Olduğum Diller
 
-<img  alt="C#" width="26px" src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png"/>
+<img alt="C#" width="26px" src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png"/>
 
 <img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
@@ -34,43 +34,21 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 #### İletişim
 
-- :email: altanemuce61@gmail.com
+- :mailbox: altanemuce61@gmail.com
 
 
 #### Profil Ziyaretçileri 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=altanemuce.altanemuce)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
 
-<br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
 
 #### Github İstatistikleri
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altanemuce&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
