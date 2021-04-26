@@ -31,7 +31,7 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=altanemuce.altanemuce)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 #### Github İstatistikleri
 <br>
 
