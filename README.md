@@ -2,7 +2,7 @@
 
 Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın almış olduğum kurslar ve bootcamp'ler ile yazılım alanında kendimi geliştirmekteyim. Ezberleyen biri değil işin mantığını anlamaya çalışan sürekli öğrenme ve araştırma isteği olan biriyim. 
 
-:mailbox: Reach me out!
+:mailbox: İletişim & Sosyal Medya!
 
 [![Twitter Badge](https://img.shields.io/badge/-@altanemuce-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/altanemuce)](https://twitter.com/altanemuce) [![Linkedin Badge](https://img.shields.io/badge/-altan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altan-emuce-b013a2173/) [![Mail Badge](https://img.shields.io/badge/-@altanemuce-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/altanemuce/) [![Mail Badge](https://img.shields.io/badge/-altanemuce-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:altanemuce61@gmail.com)
 
