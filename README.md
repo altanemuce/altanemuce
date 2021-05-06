@@ -31,6 +31,7 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 
 #### Trophylerim
 [![trophy](https://github-profile-trophy.vercel.app/?username=altanemuce&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanemuce" />
 
 
