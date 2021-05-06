@@ -30,8 +30,7 @@ Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=altanemuce.altanemuce)
 
 #### Trophylerim
-![Tropy](https://github-profile-trophy.vercel.app/?username=altanemuce&no-frame=true)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=altanemuce)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanemuce" />
 
 
