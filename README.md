@@ -1,41 +1,21 @@
-## Merhaba ben Altan  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">Hello I'm Altan EMUCE</h1>
+<h3 align="center">Professional Backend Developer</h3>
 
-Merhabalar ben Altan Emuce, okulda almış olduğum eğitimin dışında satın almış olduğum kurslar ve bootcamp'ler ile yazılım alanında kendimi geliştirmekteyim. Ezberleyen biri değil işin mantığını anlamaya çalışan sürekli öğrenme ve araştırma isteği olan biriyim. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altanemuce" alt="altanemuce" /></a> </p>
 
-:mailbox: İletişim & Sosyal Medya!
+- 🔭 I’m currently working on **ENA Digital Works**
 
-[![Twitter Badge](https://img.shields.io/badge/-@altanemuce-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/altanemuce)](https://twitter.com/altanemuce) [![Linkedin Badge](https://img.shields.io/badge/-altan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altan-emuce-b013a2173/) [![Mail Badge](https://img.shields.io/badge/-@altanemuce-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/altanemuce/) [![Mail Badge](https://img.shields.io/badge/-altanemuce-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:altanemuce61@gmail.com)
+- 🌱 I’m currently learning **Vue**
 
-<!-- TODO: Add last video link -->
+- 📫 How to reach me **dev.altanemuce@gmail.com**
 
-- :pencil2: Şuanda öğrenciyim freelance iş yapmaktayım ve iş tekliflerine açığım.
-- ⚡ Oyun oynamak, araştırma yapmak, kendimi geliştirmek hayatımdaki sevdiğim yanlarımdır.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/altanemuce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altanemuce" height="30" width="40" /></a>
+<a href="https://instagram.com/altanemuce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="altanemuce" height="30" width="40" /></a>
+</p>
 
-#### Bilgi Sahibi Olduğum Teknolojiler Ve Diller
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![Flutter Badge](https://img.shields.io/badge/%20-Flutter-informational)](#) [![Javascript Badge](https://img.shields.io/badge/%20-Javascript-yellow)](#)  [![Nodejs Badge](https://img.shields.io/badge/%20-NodeJS-green)](#) [![MongoDB Badge](https://img.shields.io/badge/%20-MongoDB-success)](#) <br>[![PostqreSql Badge](https://img.shields.io/badge/%20-PostqreSql-blue)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-EntityFramework-orange)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-C%23-purple)](#) [![PostqreSql Badge](https://img.shields.io/badge/%20-JAVA-red)](#) 
-
-<br />
-<br />
-
-#### İletişim
-
-- :mailbox: altanemuce61@gmail.com
-
-
-#### Profil Ziyaretçileri 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=altanemuce.altanemuce)
-
-#### Trophylerim
-[![trophy](https://github-profile-trophy.vercel.app/?username=altanemuce&row=2&column=3&no-bg=true&no-frame=false&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-<br />
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanemuce" />
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altanemuce&" alt="altanemuce" /></p>
